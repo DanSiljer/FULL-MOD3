@@ -17,7 +17,7 @@ app.use(cors());
 const port = 3000;
 
 //lista com nomes
-let lista = ["leo","rafa","jose"];  
+let lista = ["leo","rafa","Danusa"];  
 
 //GET rota raiz do app
 app.get("/", (req,res) =>{
